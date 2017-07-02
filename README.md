@@ -1,8 +1,9 @@
 <html>
 <head>
  <title>dogoncouch</title>
- <link rel="stylesheet" type="text/css" href="style.css">
- <meta name="description" content="dogoncouch" />
+ <link rel="stylesheet" type="text/css" href="style.css"/>
+ <link rel="shortcut icon" href="favicon.ico"/>
+ <meta name="description" content="dogoncouch"/>
  <meta name="keywords" content="dogoncouch"/>
 </head>
 <body>
