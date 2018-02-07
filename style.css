@@ -40,7 +40,12 @@ BODY {
 A:link, A:visited {
     text-decoration: none;
 }
+
 A:hover { text-decoration: underline }
+
+A.navbar:link, a.navbar:visited {
+    color: #0000EE;
+}
 
 P {
     text-indent: 2em;
