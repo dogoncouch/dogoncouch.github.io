@@ -11,7 +11,7 @@
 <div class="nav">
 
 <center>
-<a href="#"><h2>Home</a></h2>
+<a class="navbar" href="#"><h2>Home</a></h2>
 <b>Bold!</b>
 
 <br><br>
@@ -22,10 +22,10 @@
 
 
 <ul>
- <li><a href="#">Home</a></li>
- <li><a href="#about">About</a></li>
- <li><a href="#programs">Programs</a></li>
- <li><a href="#links">Links</a></li>
+ <li><a class="navbar" href="#">Home</a></li>
+ <li><a class="navbar" href="#about">About</a></li>
+ <li><a class="navbar" href="#programs">Programs</a></li>
+ <li><a class="navbar" href="#links">Links</a></li>
 </ul>
 
 </div>
@@ -42,9 +42,9 @@
 
 </center>
 
-<p>This web site will one day feature useful things, like links to open source programs and pictures that might be relevant.</p>
+<p>This web site is still under construction. It is not terribly useful, and it contains paragraphs that are too short.</p>
 
-<b><center>Email &middot <a href="mailto:dpersonsdev@gmail.com?subject=Web Inquiry">dpersonsdev@gmail.com</a>
+<b><center>Email &middot; <a href="mailto:dpersonsdev@gmail.com?subject=Web Inquiry">dpersonsdev@gmail.com</a>
 </center></b>
 
 <br>
@@ -65,8 +65,8 @@
 
 <center>
 <h2>
-CLI Programs &middot Forensics Tools &middot Development Tools<br>
-Some Other Stuff &middot Fifth Category &middot Junk<br>
+SIEM &middot; Forensics Tools &middot; Development Tools<br>
+Some Other Stuff &middot; Fifth Category &middot; Junk<br>
 </h2>
 
 
@@ -80,33 +80,13 @@ Some Other Stuff &middot Fifth Category &middot Junk<br>
 <div class="gallery">
 
 <div class="thumb">
-<a href="photos/logdissect.png"><img src="photos/logdissectsm.png">
-<br>logdissect</a>
+    <a href="photos/logdissect.png"><img src="photos/logdissect-sm.png"></a>
+    <br><a href="https://github.com/dogoncouch/logdissect">logdissect</a>
 </div>
 
 <div class="thumb">
-<a href="photos/dirutils.png"><img src="photos/dirutilssm.png">
-<br>dirutils</a>
-</div>
-
-<div class="thumb">
-<a href="photos/logshell.png"><img src="photos/logshellsm.png">
-<br>logshell</a>
-</div>
-
-<div class="thumb">
-<a href="photos/licins.png"><img src="photos/licinssm.png">
-<br>licins</a>
-</div>
-
-<div class="thumb">
-<a href="photos/quizlight.png"><img src="photos/quizlightsm.png">
-<br>quizlight</a>
-</div>
-
-<div class="thumb">
-<a href="photos/libmarklar.png"><img src="photos/libmarklarsm.png">
-<br>libmarklar</a>
+    <a href="photos/ldsi.png"><img src="photos/ldsi-sm.png">
+    <br><a href="https://github.com/dogoncouch/ldsi">LDSI</a>
 </div>
 
 </div>
