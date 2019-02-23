@@ -59,7 +59,7 @@
 <h3>About</h3>
 </center>
 
-<p>This is a description, so it needs to be more than one paragraph. It's difficult to type words when you don't have any ideas for things to type about, but I will continue doing it. It builds character, I would imagine.</p>
+<p>This is a description, so it needs to be more than one paragraph. One could argue that this isn't what Hemingway would have done, and there is really no reason for this sentence and the ones around it. There are few who would disagree with that. Writing this kind of thing builds character, though, I would imagine.</p>
 
 <p>One might expect the second paragraph to be the same kind of useless drivel, but it actually includes a <a href="https://github.com/dogoncouch">link to my github page</a>, something that might actually be classified as useful. Sure, it's just one link in a whole paragraph, and then it keeps going on and on (and on), but if you compare it to the first paragraph it's really not that bad.</p>
 
@@ -85,8 +85,8 @@ Some Other Stuff &middot; Fifth Category &middot; Junk<br>
 </div>
 
 <div class="thumb">
-    <a href="photos/ldsi.png"><img src="photos/ldsi-sm.png">
-    <br><a href="https://github.com/dogoncouch/ldsi">LDSI</a>
+    <a href="photos/logesp.png"><img src="photos/logesp-sm.png">
+    <br><a href="https://github.com/dogoncouch/LogESP">LogESP</a>
 </div>
 
 </div>
