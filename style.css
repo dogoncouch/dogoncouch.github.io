@@ -37,14 +37,19 @@ BODY {
     height: 98%;
 }
 
-A:link, A:visited {
+
+A.navbar:link, A.navbar:visited {
+    color: #55AAFF;
     text-decoration: none;
 }
-
-A:hover { text-decoration: underline }
-
-A.navbar:link, a.navbar:visited {
-    color: #0000EE;
+A.navbar:hover {
+    text-decoration: underline;
+}
+A {
+    color: #55AAFF;
+}
+A:visited {
+    color: #AA66BB;
 }
 
 P {
